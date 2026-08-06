@@ -1,6 +1,6 @@
 import pytest
 
-BASE_URL = "https://api.pokemonbattle.ru/v2"
+from utils.helpers import BASE_URL
 
 
 @pytest.mark.negative

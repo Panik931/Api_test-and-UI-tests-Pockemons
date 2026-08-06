@@ -1,3 +1,4 @@
+import pytest
 from utils.helpers import (
     knockout_all_pokemons,
     create_pokemon
@@ -5,7 +6,7 @@ from utils.helpers import (
 
 BASE_URL = "https://api.pokemonbattle.ru/v2"
 
-
+@pytest.mark.positive
 def test_patch_pokemon_name(session):
 
     knockout_all_pokemons(session)
