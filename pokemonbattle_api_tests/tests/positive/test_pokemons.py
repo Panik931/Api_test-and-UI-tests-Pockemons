@@ -35,3 +35,4 @@ def test_patch_pokemon_name(session):
     pokemon = response.json()["data"][0]
 
     assert pokemon["name"] == new_name
+
