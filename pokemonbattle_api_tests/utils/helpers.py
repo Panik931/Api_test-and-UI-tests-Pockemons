@@ -1,9 +1,9 @@
-BASE_URL = "https://api.pokemonbattle.ru/v2"
-TRAINERS_URL = f"{BASE_URL}/trainers"
-TRAINER_ID = 66134
+from utils.constants import BASE_URL, TRAINERS_URL, TRAINER_ID
 
 
 def knockout_all_pokemons(session):
+    """Переводит всех живых покемонов тренера в нокаут."""
+
     response = session.get(
         f"{BASE_URL}/pokemons",
         params={
@@ -30,6 +30,8 @@ def knockout_all_pokemons(session):
             "trainer_id": TRAINER_ID
         }
     )
+
+    assert response.status_code == 200
 
     pokemons = response.json()["data"]
 

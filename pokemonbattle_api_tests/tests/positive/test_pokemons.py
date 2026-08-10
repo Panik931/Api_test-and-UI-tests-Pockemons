@@ -1,9 +1,9 @@
 import pytest
+from utils.constants import BASE_URL
 from utils.helpers import (
     knockout_all_pokemons,
     create_pokemon
 )
-
 BASE_URL = "https://api.pokemonbattle.ru/v2"
 
 @pytest.mark.positive

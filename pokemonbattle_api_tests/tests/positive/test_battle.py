@@ -7,12 +7,12 @@ from jsonschema import validate
 BASE_DIR = Path(__file__).resolve().parents[2]
 SCHEMA_PATH = BASE_DIR / "schemas" / "battle_schema.yaml"
 
-
+@pytest.mark.positive
 def load_schema():
     with open(SCHEMA_PATH, encoding="utf-8") as file:
         return yaml.safe_load(file)
 
-
+@pytest.mark.positive
 def test_get_battle_schema(session):
 
     response = session.get(
