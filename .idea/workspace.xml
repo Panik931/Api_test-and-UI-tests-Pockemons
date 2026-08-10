@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6b46c38-3e93-4eb1-8305-07df5a9e486e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EUhhvWgb0AgWiWfWp8phCa9n7B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.PokemonBattle API Tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_pokemonbattle_api.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in PyCharm 2026.1.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_pokemonbattle_api.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditional_statements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oop-delivery.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oop-task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oop-task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.psycopg_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scopes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.terminalwriter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_pokemonbattle_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.проверка.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;DotEnv.SettingsForm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\PythonProject\pokemonbattle_api_tests\tests\positive" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="pytest in PyCharm 2026.1.2" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6b46c38-3e93-4eb1-8305-07df5a9e486e" name="Changes" comment="" />
+      <created>1780239178040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780239178040</updated>
+      <workItem from="1780239179021" duration="77000" />
+      <workItem from="1780239445957" duration="223000" />
+      <workItem from="1780247790755" duration="1056000" />
+      <workItem from="1780664112255" duration="5613000" />
+      <workItem from="1780746903421" duration="5590000" />
+      <workItem from="1780822714483" duration="11995000" />
+      <workItem from="1780921205542" duration="2374000" />
+      <workItem from="1780923609720" duration="836000" />
+      <workItem from="1780924474911" duration="583000" />
+      <workItem from="1781023527908" duration="248000" />
+      <workItem from="1781283132931" duration="7847000" />
+      <workItem from="1781357109956" duration="7524000" />
+      <workItem from="1781545051628" duration="1530000" />
+      <workItem from="1781626867959" duration="2395000" />
+      <workItem from="1781948225811" duration="8841000" />
+      <workItem from="1782030577047" duration="3220000" />
+      <workItem from="1782139957276" duration="1277000" />
+      <workItem from="1782583847552" duration="5193000" />
+      <workItem from="1782656184602" duration="3423000" />
+      <workItem from="1782743357506" duration="3952000" />
+      <workItem from="1782913586629" duration="12000" />
+    </task>
+    <task id="LOCAL-00001" summary="#">
+      <option name="closed" value="true" />
+      <created>1780835429633</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780835429633</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#" />
+    <option name="LAST_COMMIT_MESSAGE" value="#" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject$conditional_statements.coverage" NAME="conditional_statements Coverage Results" MODIFIED="1780841808103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$loops.coverage" NAME="loops Coverage Results" MODIFIED="1781371538350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$decorators.coverage" NAME="decorators Coverage Results" MODIFIED="1782753221397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$scopes.coverage" NAME="scopes Coverage Results" MODIFIED="1782586319224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$operations.coverage" NAME="operations Coverage Results" MODIFIED="1780826344372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$list_task.coverage" NAME="list_task Coverage Results" MODIFIED="1781628395720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$dict_task.coverage" NAME="dict_task Coverage Results" MODIFIED="1782037465064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$modules.coverage" NAME="modules Coverage Results" MODIFIED="1782658927975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$set_task.coverage" NAME="set_task Coverage Results" MODIFIED="1782030593190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$tuple_task.coverage" NAME="tuple_task Coverage Results" MODIFIED="1781953239530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$Hello.coverage" NAME="Hello Coverage Results" MODIFIED="1780248104618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$data_types.coverage" NAME="data_types Coverage Results" MODIFIED="1780923629769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$string_task.coverage" NAME="string_task Coverage Results" MODIFIED="1781357924390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$functions.coverage" NAME="functions Coverage Results" MODIFIED="1782141025438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$variables.coverage" NAME="variables Coverage Results" MODIFIED="1780670343911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
