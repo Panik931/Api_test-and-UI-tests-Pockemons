@@ -1,6 +1,20 @@
+# PyCharm
 .idea/
-.venv/
+
+# Python cache
 __pycache__/
 *.pyc
 .pytest_cache/
-pokemonbattle-db/
+
+# Отчёты
+allure-results/
+allure-report/
+pokemon_report/
+myshows_report/
+*.zip
+
+# Virtual environment
+.venv/
+
+# Другие проекты
+my-shows-rating-master/
