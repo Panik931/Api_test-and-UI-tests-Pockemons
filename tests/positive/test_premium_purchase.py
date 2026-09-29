@@ -18,8 +18,9 @@ VALID_PREMIUM_PAYLOAD = {
     },
 }
 
-@pytest.mark.api
+
 @pytest.fixture
+@pytest.mark.api
 def premium_purchased(lavka_session):
     """Покупает Premium до теста и отменяет подписку после,
     чтобы вернуть систему в исходное состояние."""
@@ -101,6 +102,7 @@ def test_buy_premium_payment_failed(lavka_session, field, bad_value):
 @allure.title("E2E: платёж не прошёл — нет денег на карте")
 @allure.severity(allure.severity_level.NORMAL)
 @pytest.mark.negative
+@pytest.mark.api
 def test_buy_premium_payment_declined(lavka_session):
     payload = copy.deepcopy(VALID_PREMIUM_PAYLOAD)
 

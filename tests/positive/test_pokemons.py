@@ -9,10 +9,11 @@ from utils.helpers import (
     create_pokemon,
 )
 
-@pytest.mark.api
+
 @allure.title("PATCH /pokemons: изменение имени покемона")
 @allure.severity(allure.severity_level.CRITICAL)
 @pytest.mark.positive
+@pytest.mark.api
 def test_patch_pokemon_name(session):
     with allure.step("Подготавливаем тестовые данные: отправляем всех покемонов в нокаут и создаём нового"):
         knockout_all_pokemons(session)

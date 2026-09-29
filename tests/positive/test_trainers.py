@@ -31,10 +31,11 @@ def test_get_trainers_by_city(session):
         for trainer in data:
             assert trainer["city"].lower() == city.lower()
 
-@pytest.mark.api
+
 @allure.title("GET /trainers: получение тренера по ID")
 @allure.severity(allure.severity_level.NORMAL)
 @pytest.mark.skip(reason="Пример пропуска теста")
+@pytest.mark.api
 def test_get_trainer_by_id(session):
     allure.attach(
         str(TRAINER_ID),

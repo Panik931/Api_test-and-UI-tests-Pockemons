@@ -10,7 +10,7 @@ from utils.constants import BASE_URL
 BASE_DIR = Path(__file__).resolve().parents[2]
 SCHEMA_PATH = BASE_DIR / "schemas" / "battle_schema.yaml"
 
-@pytest.mark.api
+
 @allure.step("Загружаем JSON-схему битвы")
 def load_schema():
     with open(SCHEMA_PATH, encoding="utf-8") as file:
@@ -20,6 +20,7 @@ def load_schema():
 @allure.title("GET /battle: проверка схемы ответа")
 @allure.severity(allure.severity_level.CRITICAL)
 @pytest.mark.positive
+@pytest.mark.api
 def test_get_battle_schema(session):
     with allure.step("Отправляем GET-запрос на получение данных о битвах"):
         response = session.get(f"{BASE_URL}/battle")

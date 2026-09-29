@@ -3,10 +3,11 @@ import pytest
 
 from utils.helpers import BASE_URL
 
-@pytest.mark.api
+
 @allure.title("GET /trainers: запрос с невалидным trainer_id")
 @allure.severity(allure.severity_level.MINOR)
 @pytest.mark.negative
+@pytest.mark.api
 def test_get_trainer_invalid_id(session):
     with allure.step("Отправляем GET-запрос с невалидным trainer_id=-1"):
         response = session.get(
