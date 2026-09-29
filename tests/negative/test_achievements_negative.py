@@ -7,7 +7,7 @@ import pytest_check as check
 BASE_URL = "https://api.pokemonbattle.ru/v2"
 ACHIEVEMENTS_URL = f"{BASE_URL}/achievements"
 
-
+@pytest.mark.api
 @allure.title("GET /achievements: невалидное значение параметра is_reached")
 @allure.severity(allure.severity_level.MINOR)
 @pytest.mark.negative

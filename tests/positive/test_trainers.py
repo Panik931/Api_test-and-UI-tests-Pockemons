@@ -5,7 +5,7 @@ import pytest
 
 from utils.helpers import TRAINERS_URL, TRAINER_ID
 
-
+@pytest.mark.api
 @allure.title("GET /trainers: получение тренеров по городу")
 @allure.severity(allure.severity_level.NORMAL)
 @pytest.mark.positive
@@ -31,7 +31,7 @@ def test_get_trainers_by_city(session):
         for trainer in data:
             assert trainer["city"].lower() == city.lower()
 
-
+@pytest.mark.api
 @allure.title("GET /trainers: получение тренера по ID")
 @allure.severity(allure.severity_level.NORMAL)
 @pytest.mark.skip(reason="Пример пропуска теста")

@@ -10,7 +10,7 @@ from utils.constants import BASE_URL
 BASE_DIR = Path(__file__).resolve().parents[2]
 SCHEMA_PATH = BASE_DIR / "schemas" / "battle_schema.yaml"
 
-
+@pytest.mark.api
 @allure.step("Загружаем JSON-схему битвы")
 def load_schema():
     with open(SCHEMA_PATH, encoding="utf-8") as file:

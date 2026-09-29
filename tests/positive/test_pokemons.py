@@ -9,7 +9,7 @@ from utils.helpers import (
     create_pokemon,
 )
 
-
+@pytest.mark.api
 @allure.title("PATCH /pokemons: изменение имени покемона")
 @allure.severity(allure.severity_level.CRITICAL)
 @pytest.mark.positive

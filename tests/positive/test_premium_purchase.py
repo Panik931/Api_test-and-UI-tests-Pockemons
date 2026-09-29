@@ -18,7 +18,7 @@ VALID_PREMIUM_PAYLOAD = {
     },
 }
 
-
+@pytest.mark.api
 @pytest.fixture
 def premium_purchased(lavka_session):
     """Покупает Premium до теста и отменяет подписку после,

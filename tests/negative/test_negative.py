@@ -3,7 +3,7 @@ import pytest
 
 from utils.helpers import BASE_URL
 
-
+@pytest.mark.api
 @allure.title("GET /trainers: запрос с невалидным trainer_id")
 @allure.severity(allure.severity_level.MINOR)
 @pytest.mark.negative
