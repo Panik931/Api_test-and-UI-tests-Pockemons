@@ -20,7 +20,6 @@ VALID_PREMIUM_PAYLOAD = {
 
 
 @pytest.fixture
-@pytest.mark.api
 def premium_purchased(lavka_session):
     """Покупает Premium до теста и отменяет подписку после,
     чтобы вернуть систему в исходное состояние."""
@@ -44,6 +43,7 @@ def premium_purchased(lavka_session):
 @allure.title("E2E: успешная покупка Premium (happy path)")
 @allure.severity(allure.severity_level.CRITICAL)
 @pytest.mark.positive
+@pytest.mark.api
 def test_buy_premium_happy_path(lavka_session, premium_purchased):
     purchase = premium_purchased
 
