@@ -18,3 +18,5 @@ myshows_report/
 
 # Другие проекты
 my-shows-rating-master/
+.env
+*.env
